@@ -11,7 +11,7 @@ then enter the name of the lesson/repository that you wish to create.
    - `title`
    - `repo`
    - `root`
-   - `email` (you can leave Ariel's address here, if you want).
+   - `email` (you can leave Anthony's address here, if you want).
    - `start_time` : this is the start time in minutes since midnight. For
      example, 9 AM is 540 (60 * 9).
 
