@@ -1,17 +1,15 @@
 ---
-title: "An introduction to this lesson"
-teaching: 15
+title: "Introduction to Docker"
+teaching: 5
 exercises: 0
 questions:
-- "What do we need a template for?"
-objectives:
-- "Edit lesson materials in the template"
-- "Contribute fixes through Github PRs"
-- "Use the template to create your own lesson"
+- "What is Docker?"
+- "Why are we using Docker?"
+objective:
+- "Explain the basic structure of Docker"
 keypoints:
-- We want to use this template to provide lesson materials in an open and useful format.
-
-- This is in line with our overall goal of making science (including scientific training) more open.
+- Docker makes scientific research more reproducible by creating replicas of the computing environment used for an analysis.
+- Docker decreases the spin-up time for using new software.
 
 ---
 
