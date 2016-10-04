@@ -7,7 +7,7 @@ encoding: utf-8
 kind: "lesson"
 
 # Overall title for pages.
-title: "Create Docker Images"
+title: "Create Docker Files"
 
 # Repository URL (without trailing slash).
 repo: https://github.com/kallisons/DockerTutorial
